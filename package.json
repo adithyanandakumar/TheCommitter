@@ -1,0 +1,30 @@
+{
+  "name": "commiter",
+  "version": "1.0.0",
+  "description": "a GitHub contributions painter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adithyanandakumar/TheCommiter.git"
+  },
+  "keywords": [
+    "Commiter",
+    "github",
+    "contribution"
+  ],
+  "author": "Adithya",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/adithyanandakumar/TheCommiter/issues"
+  },
+  "homepage": "https://github.com/adithyanandakumar/TheCommiter#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.11.0"
+  }
+}
